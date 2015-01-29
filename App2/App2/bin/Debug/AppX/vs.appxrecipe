@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PRATHYUSH-PC</Machine>
+    <WindowsUser>Prathyush</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>F5E9D9968A4C1F5D407A4DB2BD2DE45F732F3599215AD4219F98A50CF0608384</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>9f907ad4-0199-48f4-8a05-ff195f209d8b_1.0.0.0_neutral__qq090jnbsdzkj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>9f907ad4-0199-48f4-8a05-ff195f209d8b_qq090jnbsdzkj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>9f907ad4-0199-48f4-8a05-ff195f209d8b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Prathyush</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-05T10:24:32.368</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\App2.exe">
+      <PackagePath>App2.exe</PackagePath>
+      <Modified>2014-01-05T11:27:08.952</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\App2.pdb">
+      <PackagePath>App2.pdb</PackagePath>
+      <Modified>2014-01-05T11:27:08.890</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\1.jpg">
+      <PackagePath>Assets\1.jpg</PackagePath>
+      <Modified>2014-01-04T18:05:53.970</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\10.jpg">
+      <PackagePath>Assets\10.jpg</PackagePath>
+      <Modified>2014-01-04T18:05:54.018</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\11.jpg">
+      <PackagePath>Assets\11.jpg</PackagePath>
+      <Modified>2014-01-04T18:05:54.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\12.jpg">
+      <PackagePath>Assets\12.jpg</PackagePath>
+      <Modified>2014-01-04T18:05:54.026</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\13.jpg">
+      <PackagePath>Assets\13.jpg</PackagePath>
+      <Modified>2014-01-04T18:05:54.031</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\2.jpg">
+      <PackagePath>Assets\2.jpg</PackagePath>
+      <Modified>2014-01-04T18:05:53.974</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\3.jpg">
+      <PackagePath>Assets\3.jpg</PackagePath>
+      <Modified>2014-01-04T18:05:53.977</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\4.jpg">
+      <PackagePath>Assets\4.jpg</PackagePath>
+      <Modified>2014-01-04T18:05:53.982</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\5.jpg">
+      <PackagePath>Assets\5.jpg</PackagePath>
+      <Modified>2014-01-04T18:05:53.985</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\6.jpg">
+      <PackagePath>Assets\6.jpg</PackagePath>
+      <Modified>2014-01-04T18:05:53.989</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\7.jpg">
+      <PackagePath>Assets\7.jpg</PackagePath>
+      <Modified>2014-01-04T18:05:54.001</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\8.jpg">
+      <PackagePath>Assets\8.jpg</PackagePath>
+      <Modified>2014-01-04T18:05:54.011</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\9.jpg">
+      <PackagePath>Assets\9.jpg</PackagePath>
+      <Modified>2014-01-04T18:05:54.015</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\definition.jpg">
+      <PackagePath>Assets\definition.jpg</PackagePath>
+      <Modified>2014-01-04T18:05:54.036</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\delta-sigma-theta.jpg">
+      <PackagePath>Assets\delta-sigma-theta.jpg</PackagePath>
+      <Modified>2014-01-04T18:05:54.041</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\halfwave.jpg">
+      <PackagePath>Assets\halfwave.jpg</PackagePath>
+      <Modified>2014-01-04T18:05:54.047</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\image.jpg">
+      <PackagePath>Assets\image.jpg</PackagePath>
+      <Modified>2014-01-04T18:05:54.052</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\images.jpg">
+      <PackagePath>Assets\images.jpg</PackagePath>
+      <Modified>2014-01-04T18:05:54.055</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\logo.jpg">
+      <PackagePath>Assets\logo.jpg</PackagePath>
+      <Modified>2014-01-04T18:05:54.057</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\syll.jpg">
+      <PackagePath>Assets\syll.jpg</PackagePath>
+      <Modified>2014-01-04T18:05:56.295</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\bridge.gif">
+      <PackagePath>Assets\bridge.gif</PackagePath>
+      <Modified>2014-01-04T18:05:54.034</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\fullwave.gif">
+      <PackagePath>Assets\fullwave.gif</PackagePath>
+      <Modified>2014-01-04T18:05:54.044</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\rectifier.GIF">
+      <PackagePath>Assets\rectifier.GIF</PackagePath>
+      <Modified>2014-01-04T18:05:56.238</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-04T18:05:56.231</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-04T18:05:56.243</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-04T18:05:56.254</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-04T18:05:56.262</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2011-12-12T16:38:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2011-12-12T16:38:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2011-12-12T16:38:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\StoreLogo_1_150x150.png">
+      <PackagePath>Assets\StoreLogo_1_150x150.png</PackagePath>
+      <Modified>2014-01-04T18:05:56.272</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\StoreLogo_2_30x30.png">
+      <PackagePath>Assets\StoreLogo_2_30x30.png</PackagePath>
+      <Modified>2014-01-04T18:05:56.279</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\StoreLogo_50x50.png">
+      <PackagePath>Assets\StoreLogo_50x50.png</PackagePath>
+      <Modified>2014-01-04T18:05:56.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\Assets\transistor.png">
+      <PackagePath>Assets\transistor.png</PackagePath>
+      <Modified>2014-01-04T18:05:56.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2014-01-04T18:05:10.815</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Application\UI\Equations\EquationCapacitance.xaml">
+      <PackagePath>Application\UI\Equations\EquationCapacitance.xaml</PackagePath>
+      <Modified>2014-01-05T06:42:44.943</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Application\UI\Equations\EquationDiodeCurrent.xaml">
+      <PackagePath>Application\UI\Equations\EquationDiodeCurrent.xaml</PackagePath>
+      <Modified>2014-01-05T06:42:45.335</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Application\UI\Equations\EquationDiodeVoltage.xaml">
+      <PackagePath>Application\UI\Equations\EquationDiodeVoltage.xaml</PackagePath>
+      <Modified>2014-01-05T06:42:45.702</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Application\UI\Equations\EquationDyResistance.xaml">
+      <PackagePath>Application\UI\Equations\EquationDyResistance.xaml</PackagePath>
+      <Modified>2014-01-05T06:42:46.067</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Application\UI\Equations\EquationFwdVolDrop.xaml">
+      <PackagePath>Application\UI\Equations\EquationFwdVolDrop.xaml</PackagePath>
+      <Modified>2014-01-05T06:42:46.447</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Application\UI\Equations\EquationMaxPower.xaml">
+      <PackagePath>Application\UI\Equations\EquationMaxPower.xaml</PackagePath>
+      <Modified>2014-01-05T06:42:47.242</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Application\UI\Equations\EquationPower.xaml">
+      <PackagePath>Application\UI\Equations\EquationPower.xaml</PackagePath>
+      <Modified>2014-01-05T06:42:47.625</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Application\UI\Equations\EquationRevRecTime.xaml">
+      <PackagePath>Application\UI\Equations\EquationRevRecTime.xaml</PackagePath>
+      <Modified>2014-01-05T06:42:48.463</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Application\UI\Equations\EquationRipFactor.xaml">
+      <PackagePath>Application\UI\Equations\EquationRipFactor.xaml</PackagePath>
+      <Modified>2014-01-05T06:42:48.536</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Application\UI\Transistor\EquationTransistor.xaml">
+      <PackagePath>Application\UI\Transistor\EquationTransistor.xaml</PackagePath>
+      <Modified>2014-01-05T04:11:26.960</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Application\UI\Formulas\FormulaBWR.xaml">
+      <PackagePath>Application\UI\Formulas\FormulaBWR.xaml</PackagePath>
+      <Modified>2014-01-05T04:14:31.271</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Application\UI\Formulas\FormulaDiode.xaml">
+      <PackagePath>Application\UI\Formulas\FormulaDiode.xaml</PackagePath>
+      <Modified>2014-01-05T04:15:14.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Application\UI\Formulas\FormulaFWR.xaml">
+      <PackagePath>Application\UI\Formulas\FormulaFWR.xaml</PackagePath>
+      <Modified>2014-01-05T04:15:14.166</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Application\UI\Formulas\FormulaHWR.xaml">
+      <PackagePath>Application\UI\Formulas\FormulaHWR.xaml</PackagePath>
+      <Modified>2014-01-05T04:15:14.038</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Application\UI\Formulas\FormulaTransistor.xaml">
+      <PackagePath>Application\UI\Formulas\FormulaTransistor.xaml</PackagePath>
+      <Modified>2014-01-05T04:15:13.350</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Application\UI\Definition\DefinitionDisplay.xaml">
+      <PackagePath>Application\UI\Definition\DefinitionDisplay.xaml</PackagePath>
+      <Modified>2014-01-05T04:24:56.980</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Application\UI\Definition\DefinitionSearch.xaml">
+      <PackagePath>Application\UI\Definition\DefinitionSearch.xaml</PackagePath>
+      <Modified>2014-01-05T04:25:14.750</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Application\UI\Definition\DefinitionsList.xaml">
+      <PackagePath>Application\UI\Definition\DefinitionsList.xaml</PackagePath>
+      <Modified>2014-01-05T04:25:27.364</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Application\UI\Equations\EquationsMain.xaml">
+      <PackagePath>Application\UI\Equations\EquationsMain.xaml</PackagePath>
+      <Modified>2014-01-05T06:44:26.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Application\UI\Extras\About.xaml">
+      <PackagePath>Application\UI\Extras\About.xaml</PackagePath>
+      <Modified>2014-01-05T06:55:40.698</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Application\UI\Extras\Credits.xaml">
+      <PackagePath>Application\UI\Extras\Credits.xaml</PackagePath>
+      <Modified>2014-01-05T06:55:41.479</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Application\UI\Extras\Features.xaml">
+      <PackagePath>Application\UI\Extras\Features.xaml</PackagePath>
+      <Modified>2014-01-05T06:55:42.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Application\UI\Extras\Reference.xaml">
+      <PackagePath>Application\UI\Extras\Reference.xaml</PackagePath>
+      <Modified>2014-01-05T06:55:42.341</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Application\UI\Extras\Syllabus.xaml">
+      <PackagePath>Application\UI\Extras\Syllabus.xaml</PackagePath>
+      <Modified>2014-01-05T06:55:42.392</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Application\UI\Rectifiers\RectiferBWR.xaml">
+      <PackagePath>Application\UI\Rectifiers\RectiferBWR.xaml</PackagePath>
+      <Modified>2014-01-05T04:02:24.770</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Application\UI\Rectifiers\RectiferFWR.xaml">
+      <PackagePath>Application\UI\Rectifiers\RectiferFWR.xaml</PackagePath>
+      <Modified>2014-01-05T04:01:53.448</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Application\UI\Rectifiers\RectiferHWR.xaml">
+      <PackagePath>Application\UI\Rectifiers\RectiferHWR.xaml</PackagePath>
+      <Modified>2014-01-05T07:48:21.637</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Application\UI\MainPage.xaml">
+      <PackagePath>Application\UI\MainPage.xaml</PackagePath>
+      <Modified>2014-01-04T18:07:05.015</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T10:49:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Application\UI\GroupedItemsPage.xaml">
+      <PackagePath>Application\UI\GroupedItemsPage.xaml</PackagePath>
+      <Modified>2014-01-05T04:31:53.188</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Application\UI\GroupDetailPage.xaml">
+      <PackagePath>Application\UI\GroupDetailPage.xaml</PackagePath>
+      <Modified>2014-01-04T18:05:10.907</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\Application\UI\ItemDetailPage.xaml">
+      <PackagePath>Application\UI\ItemDetailPage.xaml</PackagePath>
+      <Modified>2014-01-04T18:05:10.945</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App2\App2\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-01-05T10:29:02.694</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
