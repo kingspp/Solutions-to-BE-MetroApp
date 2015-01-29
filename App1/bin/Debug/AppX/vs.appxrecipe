@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SANATH</Machine>
+    <WindowsUser>Manjunath</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>492476863E7172EEFE75FC24245A524A9B981BB6398CDE06726B0A55333AEA1D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>88139f95-1f27-4c6e-b7a0-6fb4044a953e_1.0.0.0_neutral__6bn09ba6b99nr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>88139f95-1f27-4c6e-b7a0-6fb4044a953e_6bn09ba6b99nr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>88139f95-1f27-4c6e-b7a0-6fb4044a953e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Madhu</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="G:\We Did It\App1\App1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-14T23:06:59.918</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\App1.exe">
+      <PackagePath>App1.exe</PackagePath>
+      <Modified>2013-09-14T23:39:15.811</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\App1.pdb">
+      <PackagePath>App1.pdb</PackagePath>
+      <Modified>2013-09-14T23:39:15.747</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\Assets\bridge_rectifier.gif">
+      <PackagePath>Assets\bridge_rectifier.gif</PackagePath>
+      <Modified>2013-09-14T22:31:46.905</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\Assets\fullwave.gif">
+      <PackagePath>Assets\fullwave.gif</PackagePath>
+      <Modified>2013-09-14T22:29:42.453</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\Assets\rectifier.GIF">
+      <PackagePath>Assets\rectifier.GIF</PackagePath>
+      <Modified>2013-09-14T22:22:33.943</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\Assets\definition.jpg">
+      <PackagePath>Assets\definition.jpg</PackagePath>
+      <Modified>2013-09-14T22:49:53.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\Assets\delta-sigma-theta.jpg">
+      <PackagePath>Assets\delta-sigma-theta.jpg</PackagePath>
+      <Modified>2013-09-14T22:49:53.465</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\Assets\halfwave.jpg">
+      <PackagePath>Assets\halfwave.jpg</PackagePath>
+      <Modified>2013-09-14T22:29:42.468</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-14T21:46:53.072</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-14T21:50:39.938</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-14T21:55:31.835</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-14T21:46:53.072</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\Assets\transistor.png">
+      <PackagePath>Assets\transistor.png</PackagePath>
+      <Modified>2013-09-14T22:27:21.736</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-09-14T16:38:36.487</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-09-14T16:38:23.824</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\features.xaml">
+      <PackagePath>features.xaml</PackagePath>
+      <Modified>2013-09-14T23:06:53.239</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\Credits.xaml">
+      <PackagePath>Credits.xaml</PackagePath>
+      <Modified>2013-09-14T23:06:51.454</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\transistore.xaml">
+      <PackagePath>transistore.xaml</PackagePath>
+      <Modified>2013-09-14T22:13:20.002</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\fwre.xaml">
+      <PackagePath>fwre.xaml</PackagePath>
+      <Modified>2013-09-14T22:59:21.685</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\hwre.xaml">
+      <PackagePath>hwre.xaml</PackagePath>
+      <Modified>2013-09-14T22:16:35.175</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\diodem.xaml">
+      <PackagePath>diodem.xaml</PackagePath>
+      <Modified>2013-09-14T21:35:51.160</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\equations.xaml">
+      <PackagePath>equations.xaml</PackagePath>
+      <Modified>2013-09-14T22:19:46.504</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\transistorm.xaml">
+      <PackagePath>transistorm.xaml</PackagePath>
+      <Modified>2013-09-14T21:18:18.767</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\definitions.xaml">
+      <PackagePath>definitions.xaml</PackagePath>
+      <Modified>2013-09-14T21:07:16.304</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\alpha1.xaml">
+      <PackagePath>alpha1.xaml</PackagePath>
+      <Modified>2013-09-14T20:20:52.118</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\zenerdiode.xaml">
+      <PackagePath>zenerdiode.xaml</PackagePath>
+      <Modified>2013-09-14T20:05:03.881</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\typesoffilters.xaml">
+      <PackagePath>typesoffilters.xaml</PackagePath>
+      <Modified>2013-09-14T20:04:25.394</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\transitioncapacitance.xaml">
+      <PackagePath>transitioncapacitance.xaml</PackagePath>
+      <Modified>2013-09-14T20:04:25.628</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\transistor.xaml">
+      <PackagePath>transistor.xaml</PackagePath>
+      <Modified>2013-09-14T20:04:25.811</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\ripplefactor.xaml">
+      <PackagePath>ripplefactor.xaml</PackagePath>
+      <Modified>2013-09-14T20:04:25.968</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\reverserecoverytime.xaml">
+      <PackagePath>reverserecoverytime.xaml</PackagePath>
+      <Modified>2013-09-14T20:04:26.124</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\reversebias.xaml">
+      <PackagePath>reversebias.xaml</PackagePath>
+      <Modified>2013-09-14T20:04:26.270</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\resistor.xaml">
+      <PackagePath>resistor.xaml</PackagePath>
+      <Modified>2013-09-14T20:04:26.421</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\rectifier.xaml">
+      <PackagePath>rectifier.xaml</PackagePath>
+      <Modified>2013-09-14T20:04:26.605</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\pnptransistor.xaml">
+      <PackagePath>pnptransistor.xaml</PackagePath>
+      <Modified>2013-09-14T20:04:26.764</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\peakinversevoltage.xaml">
+      <PackagePath>peakinversevoltage.xaml</PackagePath>
+      <Modified>2013-09-14T20:04:26.904</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\outputcharacterestics.xaml">
+      <PackagePath>outputcharacterestics.xaml</PackagePath>
+      <Modified>2013-09-14T20:04:27.059</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\npntransistor.xaml">
+      <PackagePath>npntransistor.xaml</PackagePath>
+      <Modified>2013-09-14T20:04:27.206</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\inputcharacterestics.xaml">
+      <PackagePath>inputcharacterestics.xaml</PackagePath>
+      <Modified>2013-09-14T20:04:27.357</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\forwardbias.xaml">
+      <PackagePath>forwardbias.xaml</PackagePath>
+      <Modified>2013-09-14T20:04:27.516</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\filter.xaml">
+      <PackagePath>filter.xaml</PackagePath>
+      <Modified>2013-09-14T20:04:27.675</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\diodevoltage.xaml">
+      <PackagePath>diodevoltage.xaml</PackagePath>
+      <Modified>2013-09-14T23:02:03.327</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\diodecurrent.xaml">
+      <PackagePath>diodecurrent.xaml</PackagePath>
+      <Modified>2013-09-14T20:04:27.969</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\emittertermional.xaml">
+      <PackagePath>emittertermional.xaml</PackagePath>
+      <Modified>2013-09-14T20:04:28.124</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\diode.xaml">
+      <PackagePath>diode.xaml</PackagePath>
+      <Modified>2013-09-14T20:04:28.264</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\diffusioncapacitance.xaml">
+      <PackagePath>diffusioncapacitance.xaml</PackagePath>
+      <Modified>2013-09-14T20:04:28.418</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\dcloadline.xaml">
+      <PackagePath>dcloadline.xaml</PackagePath>
+      <Modified>2013-09-14T20:04:28.907</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\def1.xaml">
+      <PackagePath>def1.xaml</PackagePath>
+      <Modified>2013-09-14T23:01:02.551</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\fwr.xaml">
+      <PackagePath>fwr.xaml</PackagePath>
+      <Modified>2013-09-14T18:26:02.273</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\hwr.xaml">
+      <PackagePath>hwr.xaml</PackagePath>
+      <Modified>2013-09-14T18:32:37.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\BasicPage2.xaml">
+      <PackagePath>BasicPage2.xaml</PackagePath>
+      <Modified>2013-09-14T22:36:44.306</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\bwr.xaml">
+      <PackagePath>bwr.xaml</PackagePath>
+      <Modified>2013-09-14T18:29:42.291</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\BasicPage3.xaml">
+      <PackagePath>BasicPage3.xaml</PackagePath>
+      <Modified>2013-09-14T19:19:03.375</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\beta.xaml">
+      <PackagePath>beta.xaml</PackagePath>
+      <Modified>2013-09-14T20:04:29.544</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\capacitor.xaml">
+      <PackagePath>capacitor.xaml</PackagePath>
+      <Modified>2013-09-14T20:04:29.387</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\collector terminal.xaml">
+      <PackagePath>collector terminal.xaml</PackagePath>
+      <Modified>2013-09-14T23:01:02.514</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\commonbase.xaml">
+      <PackagePath>commonbase.xaml</PackagePath>
+      <Modified>2013-09-14T20:04:29.070</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\commonemitter.xaml">
+      <PackagePath>commonemitter.xaml</PackagePath>
+      <Modified>2013-09-14T20:04:28.750</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\commoncollecotr.xaml">
+      <PackagePath>commoncollecotr.xaml</PackagePath>
+      <Modified>2013-09-14T20:04:28.588</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\baseter.xaml">
+      <PackagePath>baseter.xaml</PackagePath>
+      <Modified>2013-09-14T20:21:54.862</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\BasicPage4.xaml">
+      <PackagePath>BasicPage4.xaml</PackagePath>
+      <Modified>2013-09-14T20:34:31.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\bwre.xaml">
+      <PackagePath>bwre.xaml</PackagePath>
+      <Modified>2013-09-14T22:23:07.088</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\BasicPage1.xaml">
+      <PackagePath>BasicPage1.xaml</PackagePath>
+      <Modified>2013-09-14T23:32:02.253</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T10:49:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-09-14T22:57:06.911</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\We Did It\App1\App1\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-09-14T23:06:59.716</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
