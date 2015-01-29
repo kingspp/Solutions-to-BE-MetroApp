@@ -1,11 +1,11 @@
 ﻿<common:LayoutAwarePage
     x:Name="pageRoot"
-    x:Class="App1.DefinitionSearch"
+    x:Class="SolutionsToBE.DefinitionSearch"
     DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:local="using:App1"
-    xmlns:common="using:App1.Common"
+    xmlns:local="using:SolutionsToBE"
+    xmlns:common="using:SolutionsToBE.Common"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
@@ -37,8 +37,8 @@
             <TextBlock x:Name="pageTitle" Grid.Column="1" Text="Search" Style="{StaticResource PageHeaderTextStyle}"/>
         </Grid>
         <TextBlock HorizontalAlignment="Left" Margin="119,45,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Enter the keyword:" VerticalAlignment="Top" Height="57" Width="380" FontSize="36"/>
-        <TextBox x:Name="srchbx" HorizontalAlignment="Left" Margin="119,126,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="286" Height="42" FontSize="24"/>
-        <TextBlock x:Name="searchbx" HorizontalAlignment="Left" Margin="243,193,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Search . . ." VerticalAlignment="Top" Height="57" Width="184" FontSize="36" Tapped="se"/>
+        <TextBox x:Name="srchbx" HorizontalAlignment="Left" Margin="119,126,0,0"  Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="286" Height="42" FontSize="24" KeyDown="key" />
+        <TextBlock x:Name="searchbx" HorizontalAlignment="Left" Margin="243,193,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Search . . ." VerticalAlignment="Top" Height="57" Width="184" FontSize="36" Tapped="se"  />
 
         <VisualStateManager.VisualStateGroups>
 

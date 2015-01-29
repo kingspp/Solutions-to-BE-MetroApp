@@ -22,6 +22,18 @@
     <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App1\App1\Assets\1.jpg">
       <PackagePath>Assets\1.jpg</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App1\App1\Assets\10.jpg">
+      <PackagePath>Assets\10.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App1\App1\Assets\11.jpg">
+      <PackagePath>Assets\11.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App1\App1\Assets\12.jpg">
+      <PackagePath>Assets\12.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App1\App1\Assets\13.jpg">
+      <PackagePath>Assets\13.jpg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App1\App1\Assets\2.jpg">
       <PackagePath>Assets\2.jpg</PackagePath>
     </AppxPackagedFile>
@@ -39,6 +51,12 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App1\App1\Assets\7.jpg">
       <PackagePath>Assets\7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App1\App1\Assets\8.jpg">
+      <PackagePath>Assets\8.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App1\App1\Assets\9.jpg">
+      <PackagePath>Assets\9.jpg</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Prathyush\Documents\Visual Studio 2012\Projects\App1\App1\Assets\definition.jpg">
       <PackagePath>Assets\definition.jpg</PackagePath>

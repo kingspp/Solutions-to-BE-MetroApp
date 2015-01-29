@@ -20,7 +20,7 @@ using Windows.ApplicationModel.Resources.Core;
 
 // The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=234238
 
-namespace App1
+namespace SolutionsToBE
 {
 
     

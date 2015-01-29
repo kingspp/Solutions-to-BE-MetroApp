@@ -7,7 +7,7 @@
     <ProjectGuid>{1E3D9462-DF28-491A-929F-54465E981D2D}</ProjectGuid>
     <OutputType>appcontainerexe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>App1</RootNamespace>
+    <RootNamespace>SolutionsToBE</RootNamespace>
     <AssemblyName>Solutions to BE</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <FileAlignment>512</FileAlignment>
@@ -221,6 +221,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Assets\1.jpg" />
+    <Content Include="Assets\10.jpg" />
+    <Content Include="Assets\11.jpg" />
+    <Content Include="Assets\12.jpg" />
+    <Content Include="Assets\13.jpg" />
     <Content Include="Assets\2.jpg" />
     <Content Include="Assets\3.jpg" />
     <Content Include="Assets\4.jpg" />
@@ -235,6 +239,8 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Content Include="Assets\8.jpg" />
+    <Content Include="Assets\9.jpg" />
     <Content Include="Assets\StoreLogo_1_150x150.png" />
     <Content Include="Assets\StoreLogo_2_30x30.png" />
     <Content Include="Assets\StoreLogo_50x50.png" />

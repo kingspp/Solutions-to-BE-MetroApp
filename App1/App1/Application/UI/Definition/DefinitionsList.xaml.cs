@@ -17,12 +17,12 @@ using Windows.ApplicationModel.Resources.Core;
 
 // The Basic Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=234237
 
-namespace App1
+namespace SolutionsToBE
 {
     /// <summary>
     /// A basic page that provides characteristics common to most applications.
     /// </summary>
-    public partial class DefinitionList : App1.Common.LayoutAwarePage
+    public partial class DefinitionList : SolutionsToBE.Common.LayoutAwarePage
     {
         ResourceLoader rl = new ResourceLoader();
         public static string name;

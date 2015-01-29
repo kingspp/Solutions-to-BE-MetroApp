@@ -9,17 +9,17 @@
 
 
 
-namespace App1
+namespace SolutionsToBE
 {
     public partial class App : global::Windows.UI.Xaml.Markup.IXamlMetadataProvider
     {
-        private global::App1.App1_XamlTypeInfo.XamlTypeInfoProvider _provider;
+        private global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlTypeInfoProvider _provider;
 
         public global::Windows.UI.Xaml.Markup.IXamlType GetXamlType(global::System.Type type)
         {
             if(_provider == null)
             {
-                _provider = new global::App1.App1_XamlTypeInfo.XamlTypeInfoProvider();
+                _provider = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlTypeInfoProvider();
             }
             return _provider.GetXamlTypeByType(type);
         }
@@ -28,7 +28,7 @@ namespace App1
         {
             if(_provider == null)
             {
-                _provider = new global::App1.App1_XamlTypeInfo.XamlTypeInfoProvider();
+                _provider = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlTypeInfoProvider();
             }
             return _provider.GetXamlTypeByName(fullName);
         }
@@ -40,7 +40,7 @@ namespace App1
     }
 }
 
-namespace App1.App1_XamlTypeInfo
+namespace SolutionsToBE.Solutions_to_BE_XamlTypeInfo
 {
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Windows.UI.Xaml.Build.Tasks", "4.0.0.0")]    
@@ -112,282 +112,282 @@ namespace App1.App1_XamlTypeInfo
             }
         }
 
-        private object Activate_0_LayoutAwarePage() { return new global::App1.Common.LayoutAwarePage(); }
+        private object Activate_0_LayoutAwarePage() { return new global::SolutionsToBE.Common.LayoutAwarePage(); }
 
-        private object Activate_1_About() { return new global::App1.About(); }
+        private object Activate_1_About() { return new global::SolutionsToBE.About(); }
 
-        private object Activate_2_DefinitionDisplay() { return new global::App1.DefinitionDisplay(); }
+        private object Activate_2_DefinitionDisplay() { return new global::SolutionsToBE.DefinitionDisplay(); }
 
-        private object Activate_3_Reference() { return new global::App1.Reference(); }
+        private object Activate_3_Reference() { return new global::SolutionsToBE.Reference(); }
 
-        private object Activate_4_Syllabus() { return new global::App1.Syllabus(); }
+        private object Activate_4_Syllabus() { return new global::SolutionsToBE.Syllabus(); }
 
-        private object Activate_5_EquationRipFactor() { return new global::App1.EquationRipFactor(); }
+        private object Activate_5_EquationRipFactor() { return new global::SolutionsToBE.EquationRipFactor(); }
 
-        private object Activate_6_EquationMaxPower() { return new global::App1.EquationMaxPower(); }
+        private object Activate_6_EquationMaxPower() { return new global::SolutionsToBE.EquationMaxPower(); }
 
-        private object Activate_7_EquationDiodeCurrent() { return new global::App1.EquationDiodeCurrent(); }
+        private object Activate_7_EquationDiodeCurrent() { return new global::SolutionsToBE.EquationDiodeCurrent(); }
 
-        private object Activate_8_EquationDiodeVoltage() { return new global::App1.EquationDiodeVoltage(); }
+        private object Activate_8_EquationDiodeVoltage() { return new global::SolutionsToBE.EquationDiodeVoltage(); }
 
-        private object Activate_9_EquationRevRecTime() { return new global::App1.EquationRevRecTime(); }
+        private object Activate_9_EquationRevRecTime() { return new global::SolutionsToBE.EquationRevRecTime(); }
 
-        private object Activate_10_EquationPower() { return new global::App1.EquationPower(); }
+        private object Activate_10_EquationPower() { return new global::SolutionsToBE.EquationPower(); }
 
-        private object Activate_11_EquationDyResistance() { return new global::App1.EquationDyResistance(); }
+        private object Activate_11_EquationDyResistance() { return new global::SolutionsToBE.EquationDyResistance(); }
 
-        private object Activate_12_EquationFwdVolDrop() { return new global::App1.EquationFwdVolDrop(); }
+        private object Activate_12_EquationFwdVolDrop() { return new global::SolutionsToBE.EquationFwdVolDrop(); }
 
-        private object Activate_13_EquationsMain() { return new global::App1.EquationsMain(); }
+        private object Activate_13_EquationsMain() { return new global::SolutionsToBE.EquationsMain(); }
 
-        private object Activate_14_Features() { return new global::App1.Features(); }
+        private object Activate_14_Features() { return new global::SolutionsToBE.Features(); }
 
-        private object Activate_15_Credits() { return new global::App1.Credits(); }
+        private object Activate_15_Credits() { return new global::SolutionsToBE.Credits(); }
 
-        private object Activate_16_FormulaTransistor() { return new global::App1.FormulaTransistor(); }
+        private object Activate_16_FormulaTransistor() { return new global::SolutionsToBE.FormulaTransistor(); }
 
-        private object Activate_17_FormulaFWR() { return new global::App1.FormulaFWR(); }
+        private object Activate_17_FormulaFWR() { return new global::SolutionsToBE.FormulaFWR(); }
 
-        private object Activate_18_FormulaHWR() { return new global::App1.FormulaHWR(); }
+        private object Activate_18_FormulaHWR() { return new global::SolutionsToBE.FormulaHWR(); }
 
-        private object Activate_19_FormulaDiode() { return new global::App1.FormulaDiode(); }
+        private object Activate_19_FormulaDiode() { return new global::SolutionsToBE.FormulaDiode(); }
 
-        private object Activate_20_FormulaMain() { return new global::App1.FormulaMain(); }
+        private object Activate_20_FormulaMain() { return new global::SolutionsToBE.FormulaMain(); }
 
-        private object Activate_21_EquationTransistor() { return new global::App1.EquationTransistor(); }
+        private object Activate_21_EquationTransistor() { return new global::SolutionsToBE.EquationTransistor(); }
 
-        private object Activate_22_definitions() { return new global::App1.definitions(); }
+        private object Activate_22_definitions() { return new global::SolutionsToBE.definitions(); }
 
-        private object Activate_23_DefinitionList() { return new global::App1.DefinitionList(); }
+        private object Activate_23_DefinitionList() { return new global::SolutionsToBE.DefinitionList(); }
 
-        private object Activate_24_RectifierFWR() { return new global::App1.RectifierFWR(); }
+        private object Activate_24_RectifierFWR() { return new global::SolutionsToBE.RectifierFWR(); }
 
-        private object Activate_25_hwr() { return new global::App1.hwr(); }
+        private object Activate_25_RectifierHWR() { return new global::SolutionsToBE.RectifierHWR(); }
 
-        private object Activate_26_RectifiersMain() { return new global::App1.RectifiersMain(); }
+        private object Activate_26_RectifiersMain() { return new global::SolutionsToBE.RectifiersMain(); }
 
-        private object Activate_27_RectiferBWR() { return new global::App1.RectiferBWR(); }
+        private object Activate_27_RectiferBWR() { return new global::SolutionsToBE.RectiferBWR(); }
 
-        private object Activate_28_DefinitionSearch() { return new global::App1.DefinitionSearch(); }
+        private object Activate_28_DefinitionSearch() { return new global::SolutionsToBE.DefinitionSearch(); }
 
-        private object Activate_29_FormulaBWR() { return new global::App1.FormulaBWR(); }
+        private object Activate_29_FormulaBWR() { return new global::SolutionsToBE.FormulaBWR(); }
 
-        private object Activate_30_EquationCapacitance() { return new global::App1.EquationCapacitance(); }
+        private object Activate_30_EquationCapacitance() { return new global::SolutionsToBE.EquationCapacitance(); }
 
-        private object Activate_31_MainPage2() { return new global::App1.MainPage2(); }
+        private object Activate_31_MainPage2() { return new global::SolutionsToBE.MainPage2(); }
 
-        private object Activate_32_MainPage() { return new global::App1.MainPage(); }
+        private object Activate_32_MainPage() { return new global::SolutionsToBE.MainPage(); }
 
 
         private global::Windows.UI.Xaml.Markup.IXamlType CreateXamlType(string typeName)
         {
-            global::App1.App1_XamlTypeInfo.XamlSystemBaseType xamlType = null;
-            global::App1.App1_XamlTypeInfo.XamlUserType userType;
+            global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlSystemBaseType xamlType = null;
+            global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType userType;
 
             switch (typeName)
             {
             case "Windows.UI.Xaml.Controls.Page":
-                xamlType = new global::App1.App1_XamlTypeInfo.XamlSystemBaseType(typeName, typeof(global::Windows.UI.Xaml.Controls.Page));
+                xamlType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlSystemBaseType(typeName, typeof(global::Windows.UI.Xaml.Controls.Page));
                 break;
 
             case "Windows.UI.Xaml.Controls.UserControl":
-                xamlType = new global::App1.App1_XamlTypeInfo.XamlSystemBaseType(typeName, typeof(global::Windows.UI.Xaml.Controls.UserControl));
+                xamlType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlSystemBaseType(typeName, typeof(global::Windows.UI.Xaml.Controls.UserControl));
                 break;
 
-            case "App1.Common.LayoutAwarePage":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.Common.LayoutAwarePage), GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+            case "SolutionsToBE.Common.LayoutAwarePage":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.Common.LayoutAwarePage), GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
                 userType.Activator = Activate_0_LayoutAwarePage;
                 xamlType = userType;
                 break;
 
-            case "App1.About":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.About), GetXamlTypeByName("App1.Common.LayoutAwarePage"));
+            case "SolutionsToBE.About":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.About), GetXamlTypeByName("SolutionsToBE.Common.LayoutAwarePage"));
                 userType.Activator = Activate_1_About;
                 xamlType = userType;
                 break;
 
-            case "App1.DefinitionDisplay":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.DefinitionDisplay), GetXamlTypeByName("App1.Common.LayoutAwarePage"));
+            case "SolutionsToBE.DefinitionDisplay":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.DefinitionDisplay), GetXamlTypeByName("SolutionsToBE.Common.LayoutAwarePage"));
                 userType.Activator = Activate_2_DefinitionDisplay;
                 xamlType = userType;
                 break;
 
-            case "App1.Reference":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.Reference), GetXamlTypeByName("App1.Common.LayoutAwarePage"));
+            case "SolutionsToBE.Reference":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.Reference), GetXamlTypeByName("SolutionsToBE.Common.LayoutAwarePage"));
                 userType.Activator = Activate_3_Reference;
                 xamlType = userType;
                 break;
 
-            case "App1.Syllabus":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.Syllabus), GetXamlTypeByName("App1.Common.LayoutAwarePage"));
+            case "SolutionsToBE.Syllabus":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.Syllabus), GetXamlTypeByName("SolutionsToBE.Common.LayoutAwarePage"));
                 userType.Activator = Activate_4_Syllabus;
                 xamlType = userType;
                 break;
 
-            case "App1.EquationRipFactor":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.EquationRipFactor), GetXamlTypeByName("App1.Common.LayoutAwarePage"));
+            case "SolutionsToBE.EquationRipFactor":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.EquationRipFactor), GetXamlTypeByName("SolutionsToBE.Common.LayoutAwarePage"));
                 userType.Activator = Activate_5_EquationRipFactor;
                 xamlType = userType;
                 break;
 
-            case "App1.EquationMaxPower":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.EquationMaxPower), GetXamlTypeByName("App1.Common.LayoutAwarePage"));
+            case "SolutionsToBE.EquationMaxPower":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.EquationMaxPower), GetXamlTypeByName("SolutionsToBE.Common.LayoutAwarePage"));
                 userType.Activator = Activate_6_EquationMaxPower;
                 xamlType = userType;
                 break;
 
-            case "App1.EquationDiodeCurrent":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.EquationDiodeCurrent), GetXamlTypeByName("App1.Common.LayoutAwarePage"));
+            case "SolutionsToBE.EquationDiodeCurrent":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.EquationDiodeCurrent), GetXamlTypeByName("SolutionsToBE.Common.LayoutAwarePage"));
                 userType.Activator = Activate_7_EquationDiodeCurrent;
                 xamlType = userType;
                 break;
 
-            case "App1.EquationDiodeVoltage":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.EquationDiodeVoltage), GetXamlTypeByName("App1.Common.LayoutAwarePage"));
+            case "SolutionsToBE.EquationDiodeVoltage":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.EquationDiodeVoltage), GetXamlTypeByName("SolutionsToBE.Common.LayoutAwarePage"));
                 userType.Activator = Activate_8_EquationDiodeVoltage;
                 xamlType = userType;
                 break;
 
-            case "App1.EquationRevRecTime":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.EquationRevRecTime), GetXamlTypeByName("App1.Common.LayoutAwarePage"));
+            case "SolutionsToBE.EquationRevRecTime":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.EquationRevRecTime), GetXamlTypeByName("SolutionsToBE.Common.LayoutAwarePage"));
                 userType.Activator = Activate_9_EquationRevRecTime;
                 xamlType = userType;
                 break;
 
-            case "App1.EquationPower":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.EquationPower), GetXamlTypeByName("App1.Common.LayoutAwarePage"));
+            case "SolutionsToBE.EquationPower":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.EquationPower), GetXamlTypeByName("SolutionsToBE.Common.LayoutAwarePage"));
                 userType.Activator = Activate_10_EquationPower;
                 xamlType = userType;
                 break;
 
-            case "App1.EquationDyResistance":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.EquationDyResistance), GetXamlTypeByName("App1.Common.LayoutAwarePage"));
+            case "SolutionsToBE.EquationDyResistance":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.EquationDyResistance), GetXamlTypeByName("SolutionsToBE.Common.LayoutAwarePage"));
                 userType.Activator = Activate_11_EquationDyResistance;
                 xamlType = userType;
                 break;
 
-            case "App1.EquationFwdVolDrop":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.EquationFwdVolDrop), GetXamlTypeByName("App1.Common.LayoutAwarePage"));
+            case "SolutionsToBE.EquationFwdVolDrop":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.EquationFwdVolDrop), GetXamlTypeByName("SolutionsToBE.Common.LayoutAwarePage"));
                 userType.Activator = Activate_12_EquationFwdVolDrop;
                 xamlType = userType;
                 break;
 
-            case "App1.EquationsMain":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.EquationsMain), GetXamlTypeByName("App1.Common.LayoutAwarePage"));
+            case "SolutionsToBE.EquationsMain":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.EquationsMain), GetXamlTypeByName("SolutionsToBE.Common.LayoutAwarePage"));
                 userType.Activator = Activate_13_EquationsMain;
                 xamlType = userType;
                 break;
 
-            case "App1.Features":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.Features), GetXamlTypeByName("App1.Common.LayoutAwarePage"));
+            case "SolutionsToBE.Features":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.Features), GetXamlTypeByName("SolutionsToBE.Common.LayoutAwarePage"));
                 userType.Activator = Activate_14_Features;
                 xamlType = userType;
                 break;
 
-            case "App1.Credits":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.Credits), GetXamlTypeByName("App1.Common.LayoutAwarePage"));
+            case "SolutionsToBE.Credits":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.Credits), GetXamlTypeByName("SolutionsToBE.Common.LayoutAwarePage"));
                 userType.Activator = Activate_15_Credits;
                 xamlType = userType;
                 break;
 
-            case "App1.FormulaTransistor":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.FormulaTransistor), GetXamlTypeByName("App1.Common.LayoutAwarePage"));
+            case "SolutionsToBE.FormulaTransistor":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.FormulaTransistor), GetXamlTypeByName("SolutionsToBE.Common.LayoutAwarePage"));
                 userType.Activator = Activate_16_FormulaTransistor;
                 xamlType = userType;
                 break;
 
-            case "App1.FormulaFWR":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.FormulaFWR), GetXamlTypeByName("App1.Common.LayoutAwarePage"));
+            case "SolutionsToBE.FormulaFWR":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.FormulaFWR), GetXamlTypeByName("SolutionsToBE.Common.LayoutAwarePage"));
                 userType.Activator = Activate_17_FormulaFWR;
                 xamlType = userType;
                 break;
 
-            case "App1.FormulaHWR":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.FormulaHWR), GetXamlTypeByName("App1.Common.LayoutAwarePage"));
+            case "SolutionsToBE.FormulaHWR":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.FormulaHWR), GetXamlTypeByName("SolutionsToBE.Common.LayoutAwarePage"));
                 userType.Activator = Activate_18_FormulaHWR;
                 xamlType = userType;
                 break;
 
-            case "App1.FormulaDiode":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.FormulaDiode), GetXamlTypeByName("App1.Common.LayoutAwarePage"));
+            case "SolutionsToBE.FormulaDiode":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.FormulaDiode), GetXamlTypeByName("SolutionsToBE.Common.LayoutAwarePage"));
                 userType.Activator = Activate_19_FormulaDiode;
                 xamlType = userType;
                 break;
 
-            case "App1.FormulaMain":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.FormulaMain), GetXamlTypeByName("App1.Common.LayoutAwarePage"));
+            case "SolutionsToBE.FormulaMain":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.FormulaMain), GetXamlTypeByName("SolutionsToBE.Common.LayoutAwarePage"));
                 userType.Activator = Activate_20_FormulaMain;
                 xamlType = userType;
                 break;
 
-            case "App1.EquationTransistor":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.EquationTransistor), GetXamlTypeByName("App1.Common.LayoutAwarePage"));
+            case "SolutionsToBE.EquationTransistor":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.EquationTransistor), GetXamlTypeByName("SolutionsToBE.Common.LayoutAwarePage"));
                 userType.Activator = Activate_21_EquationTransistor;
                 xamlType = userType;
                 break;
 
-            case "App1.definitions":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.definitions), GetXamlTypeByName("App1.Common.LayoutAwarePage"));
+            case "SolutionsToBE.definitions":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.definitions), GetXamlTypeByName("SolutionsToBE.Common.LayoutAwarePage"));
                 userType.Activator = Activate_22_definitions;
                 xamlType = userType;
                 break;
 
-            case "App1.DefinitionList":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.DefinitionList), GetXamlTypeByName("App1.Common.LayoutAwarePage"));
+            case "SolutionsToBE.DefinitionList":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.DefinitionList), GetXamlTypeByName("SolutionsToBE.Common.LayoutAwarePage"));
                 userType.Activator = Activate_23_DefinitionList;
                 xamlType = userType;
                 break;
 
-            case "App1.RectifierFWR":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.RectifierFWR), GetXamlTypeByName("App1.Common.LayoutAwarePage"));
+            case "SolutionsToBE.RectifierFWR":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.RectifierFWR), GetXamlTypeByName("SolutionsToBE.Common.LayoutAwarePage"));
                 userType.Activator = Activate_24_RectifierFWR;
                 xamlType = userType;
                 break;
 
-            case "App1.hwr":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.hwr), GetXamlTypeByName("App1.Common.LayoutAwarePage"));
-                userType.Activator = Activate_25_hwr;
+            case "SolutionsToBE.RectifierHWR":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.RectifierHWR), GetXamlTypeByName("SolutionsToBE.Common.LayoutAwarePage"));
+                userType.Activator = Activate_25_RectifierHWR;
                 xamlType = userType;
                 break;
 
-            case "App1.RectifiersMain":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.RectifiersMain), GetXamlTypeByName("App1.Common.LayoutAwarePage"));
+            case "SolutionsToBE.RectifiersMain":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.RectifiersMain), GetXamlTypeByName("SolutionsToBE.Common.LayoutAwarePage"));
                 userType.Activator = Activate_26_RectifiersMain;
                 xamlType = userType;
                 break;
 
-            case "App1.RectiferBWR":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.RectiferBWR), GetXamlTypeByName("App1.Common.LayoutAwarePage"));
+            case "SolutionsToBE.RectiferBWR":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.RectiferBWR), GetXamlTypeByName("SolutionsToBE.Common.LayoutAwarePage"));
                 userType.Activator = Activate_27_RectiferBWR;
                 xamlType = userType;
                 break;
 
-            case "App1.DefinitionSearch":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.DefinitionSearch), GetXamlTypeByName("App1.Common.LayoutAwarePage"));
+            case "SolutionsToBE.DefinitionSearch":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.DefinitionSearch), GetXamlTypeByName("SolutionsToBE.Common.LayoutAwarePage"));
                 userType.Activator = Activate_28_DefinitionSearch;
                 xamlType = userType;
                 break;
 
-            case "App1.FormulaBWR":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.FormulaBWR), GetXamlTypeByName("App1.Common.LayoutAwarePage"));
+            case "SolutionsToBE.FormulaBWR":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.FormulaBWR), GetXamlTypeByName("SolutionsToBE.Common.LayoutAwarePage"));
                 userType.Activator = Activate_29_FormulaBWR;
                 xamlType = userType;
                 break;
 
-            case "App1.EquationCapacitance":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.EquationCapacitance), GetXamlTypeByName("App1.Common.LayoutAwarePage"));
+            case "SolutionsToBE.EquationCapacitance":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.EquationCapacitance), GetXamlTypeByName("SolutionsToBE.Common.LayoutAwarePage"));
                 userType.Activator = Activate_30_EquationCapacitance;
                 xamlType = userType;
                 break;
 
-            case "App1.MainPage2":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.MainPage2), GetXamlTypeByName("App1.Common.LayoutAwarePage"));
+            case "SolutionsToBE.MainPage2":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.MainPage2), GetXamlTypeByName("SolutionsToBE.Common.LayoutAwarePage"));
                 userType.Activator = Activate_31_MainPage2;
                 xamlType = userType;
                 break;
 
-            case "App1.MainPage":
-                userType = new global::App1.App1_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::App1.MainPage), GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+            case "SolutionsToBE.MainPage":
+                userType = new global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::SolutionsToBE.MainPage), GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
                 userType.Activator = Activate_32_MainPage;
                 xamlType = userType;
                 break;
@@ -400,7 +400,7 @@ namespace App1.App1_XamlTypeInfo
 
         private global::Windows.UI.Xaml.Markup.IXamlMember CreateXamlMember(string longMemberName)
         {
-            global::App1.App1_XamlTypeInfo.XamlMember xamlMember = null;
+            global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlMember xamlMember = null;
             // No Local Properties
             return xamlMember;
         }
@@ -456,9 +456,9 @@ namespace App1.App1_XamlTypeInfo
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Windows.UI.Xaml.Build.Tasks", "4.0.0.0")]    
     [System.Diagnostics.DebuggerNonUserCodeAttribute()]
-    internal class XamlUserType : global::App1.App1_XamlTypeInfo.XamlSystemBaseType
+    internal class XamlUserType : global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlSystemBaseType
     {
-        global::App1.App1_XamlTypeInfo.XamlTypeInfoProvider _provider;
+        global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlTypeInfoProvider _provider;
         global::Windows.UI.Xaml.Markup.IXamlType _baseType;
         bool _isArray;
         bool _isMarkupExtension;
@@ -470,7 +470,7 @@ namespace App1.App1_XamlTypeInfo
         global::System.Collections.Generic.Dictionary<string, string> _memberNames;
         global::System.Collections.Generic.Dictionary<string, object> _enumValues;
 
-        public XamlUserType(global::App1.App1_XamlTypeInfo.XamlTypeInfoProvider provider, string fullName, global::System.Type fullType, global::Windows.UI.Xaml.Markup.IXamlType baseType)
+        public XamlUserType(global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlTypeInfoProvider provider, string fullName, global::System.Type fullType, global::Windows.UI.Xaml.Markup.IXamlType baseType)
             :base(fullName, fullType)
         {
             _provider = provider;
@@ -651,7 +651,7 @@ namespace App1.App1_XamlTypeInfo
     [System.Diagnostics.DebuggerNonUserCodeAttribute()]
     internal class XamlMember : global::Windows.UI.Xaml.Markup.IXamlMember
     {
-        global::App1.App1_XamlTypeInfo.XamlTypeInfoProvider _provider;
+        global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlTypeInfoProvider _provider;
         string _name;
         bool _isAttachable;
         bool _isDependencyProperty;
@@ -660,7 +660,7 @@ namespace App1.App1_XamlTypeInfo
         string _typeName;
         string _targetTypeName;
 
-        public XamlMember(global::App1.App1_XamlTypeInfo.XamlTypeInfoProvider provider, string name, string typeName)
+        public XamlMember(global::SolutionsToBE.Solutions_to_BE_XamlTypeInfo.XamlTypeInfoProvider provider, string name, string typeName)
         {
             _name = name;
             _typeName = typeName;
