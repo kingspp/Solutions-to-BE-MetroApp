@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KING-SPP</Machine>
+    <WindowsUser>kings_000</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\App1.exe">
+      <PackagePath>App1.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\App1.pdb">
+      <PackagePath>App1.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\Assets\bridge_rectifier.gif">
+      <PackagePath>Assets\bridge_rectifier.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\Assets\fullwave.gif">
+      <PackagePath>Assets\fullwave.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\Assets\rectifier.GIF">
+      <PackagePath>Assets\rectifier.GIF</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\Assets\definition.jpg">
+      <PackagePath>Assets\definition.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\Assets\delta-sigma-theta.jpg">
+      <PackagePath>Assets\delta-sigma-theta.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\Assets\halfwave.jpg">
+      <PackagePath>Assets\halfwave.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\Assets\image.jpg">
+      <PackagePath>Assets\image.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\Assets\images.jpg">
+      <PackagePath>Assets\images.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\Assets\syll.jpg">
+      <PackagePath>Assets\syll.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\Assets\transistor.png">
+      <PackagePath>Assets\transistor.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\reference.xaml">
+      <PackagePath>reference.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\syllabus.xaml">
+      <PackagePath>syllabus.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\Rip.xaml">
+      <PackagePath>Rip.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\P2.xaml">
+      <PackagePath>P2.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\If.xaml">
+      <PackagePath>If.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\dv.xaml">
+      <PackagePath>dv.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\rev.xaml">
+      <PackagePath>rev.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\pw.xaml">
+      <PackagePath>pw.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\rd.xaml">
+      <PackagePath>rd.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\vf.xaml">
+      <PackagePath>vf.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\Equationsor.xaml">
+      <PackagePath>Equationsor.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\features.xaml">
+      <PackagePath>features.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\Credits.xaml">
+      <PackagePath>Credits.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\transistore.xaml">
+      <PackagePath>transistore.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\fwre.xaml">
+      <PackagePath>fwre.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\hwre.xaml">
+      <PackagePath>hwre.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\diodem.xaml">
+      <PackagePath>diodem.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\equations.xaml">
+      <PackagePath>equations.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\transistorm.xaml">
+      <PackagePath>transistorm.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\definitions.xaml">
+      <PackagePath>definitions.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\alpha1.xaml">
+      <PackagePath>alpha1.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\zenerdiode.xaml">
+      <PackagePath>zenerdiode.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\typesoffilters.xaml">
+      <PackagePath>typesoffilters.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\transitioncapacitance.xaml">
+      <PackagePath>transitioncapacitance.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\transistor.xaml">
+      <PackagePath>transistor.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\ripplefactor.xaml">
+      <PackagePath>ripplefactor.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\reverserecoverytime.xaml">
+      <PackagePath>reverserecoverytime.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\reversebias.xaml">
+      <PackagePath>reversebias.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\resistor.xaml">
+      <PackagePath>resistor.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\rectifier.xaml">
+      <PackagePath>rectifier.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\pnptransistor.xaml">
+      <PackagePath>pnptransistor.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\peakinversevoltage.xaml">
+      <PackagePath>peakinversevoltage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\outputcharacterestics.xaml">
+      <PackagePath>outputcharacterestics.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\npntransistor.xaml">
+      <PackagePath>npntransistor.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\inputcharacterestics.xaml">
+      <PackagePath>inputcharacterestics.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\forwardbias.xaml">
+      <PackagePath>forwardbias.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\filter.xaml">
+      <PackagePath>filter.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\diodevoltage.xaml">
+      <PackagePath>diodevoltage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\diodecurrent.xaml">
+      <PackagePath>diodecurrent.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\emittertermional.xaml">
+      <PackagePath>emittertermional.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\diode.xaml">
+      <PackagePath>diode.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\diffusioncapacitance.xaml">
+      <PackagePath>diffusioncapacitance.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\dcloadline.xaml">
+      <PackagePath>dcloadline.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\def1.xaml">
+      <PackagePath>def1.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\fwr.xaml">
+      <PackagePath>fwr.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\hwr.xaml">
+      <PackagePath>hwr.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\BasicPage2.xaml">
+      <PackagePath>BasicPage2.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\bwr.xaml">
+      <PackagePath>bwr.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\BasicPage3.xaml">
+      <PackagePath>BasicPage3.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\beta.xaml">
+      <PackagePath>beta.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\capacitor.xaml">
+      <PackagePath>capacitor.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\collector terminal.xaml">
+      <PackagePath>collector terminal.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\commonbase.xaml">
+      <PackagePath>commonbase.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\commonemitter.xaml">
+      <PackagePath>commonemitter.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\commoncollecotr.xaml">
+      <PackagePath>commoncollecotr.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\baseter.xaml">
+      <PackagePath>baseter.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\BasicPage4.xaml">
+      <PackagePath>BasicPage4.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\bwre.xaml">
+      <PackagePath>bwre.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\ca.xaml">
+      <PackagePath>ca.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\BasicPage1.xaml">
+      <PackagePath>BasicPage1.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kings_000\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

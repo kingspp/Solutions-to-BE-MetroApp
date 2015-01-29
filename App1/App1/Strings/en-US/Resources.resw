@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Alpha" xml:space="preserve">
+    <value>The ratio of Collector Current to the Emitter current at constant output voltage Vcb</value>
+  </data>
+  <data name="Base Terminal" xml:space="preserve">
+    <value>The base terminal is thinly doped such that it acts as the depletion region between emitter and collector</value>
+  </data>
+  <data name="Beta" xml:space="preserve">
+    <value>The ratio of Collector Current to the Base Current at constant output voltage Vce</value>
+  </data>
+  <data name="Capacitor" xml:space="preserve">
+    <value>The device which stors Electrical energy is said to be a capacitor</value>
+  </data>
+  <data name="Collector Terminal" xml:space="preserve">
+    <value>The Collector terminal is moderately doped and its function is to  collect the charge carriers from the emitter</value>
+  </data>
+  <data name="Common Base Mode" xml:space="preserve">
+    <value>The mode in which Emitter terminal(Input) is forward biased Collector  terminal(Output) is reverse biased is known as Common base mode. Base terminal is grounded</value>
+  </data>
+  <data name="Common Collector Mode" xml:space="preserve">
+    <value>The mode in which Base terminal(Input) is forward biased and Emitter terminal(output) is reverse biased is known as Common Emitter mode. Collector Terminal is grounded.  The gain is given by Gamma</value>
+  </data>
+  <data name="Common Emitter Mode" xml:space="preserve">
+    <value>The mode in which Base terminal(Input) is forward biased and  Collector terminal(Output) is reverse biased is known as  Common Emitter mode. Emitter terminal is grounded The gain is given by Beta</value>
+  </data>
+  <data name="DC Load Line" xml:space="preserve">
+    <value>It is a line plotted in the graph, where it shows the  maximum voltage and current which a Diode or a Transistor can work and their Q points</value>
+  </data>
+  <data name="Diffusion Capacitance" xml:space="preserve">
+    <value>The capacitance effect caused due to the Time Delay of the Diode  is known as Diffusion Capacitance</value>
+  </data>
+  <data name="Diode" xml:space="preserve">
+    <value>Diode is a two terminal single junction device</value>
+  </data>
+  <data name="Diode Current Equation" xml:space="preserve">
+    <value>If = Is[e pow(V/NVt) - 1]                                                                                                 Where, If = Forward Current Is = Reverse Saturation Current V  = Forward Voltage Vt = Thermal Equivalent Voltage N  = 2 for Silicon, 1 for Germanium Vt = (T/11600), T = 25 C</value>
+  </data>
+  <data name="Diode Voltage Equation" xml:space="preserve">
+    <value>E = IfRf + Vf 
+ Where, E  = Voltage Supplied If = Forward Current Rf = Forward Resistance Vf = Forward Voltage</value>
+  </data>
+  <data name="Emitter Terminal" xml:space="preserve">
+    <value>The Emitter terminal is highly doped because it has to emit  the charge carriers</value>
+  </data>
+  <data name="Filter" xml:space="preserve">
+    <value>Filters are the circuits that is used to remove the AC component present in the rectifier circuits</value>
+  </data>
+  <data name="Forward Bias" xml:space="preserve">
+    <value>When positive part of a device is said to be connected to the  positive terminal of the Battery and negetive to the negetive terminal, the device is said to be Forward Biased</value>
+  </data>
+  <data name="Input Characteristics" xml:space="preserve">
+    <value>It is the graph of Input Voltage vs Input Current, at  constant Output Voltage</value>
+  </data>
+  <data name="NPN Transistor" xml:space="preserve">
+    <value>When a p-type Semiconductor is sandwiched between two n-type Semiconductors, the device is said to be a n-p-n Transistor. Free electrons are the majority charge carriers</value>
+  </data>
+  <data name="Output Characteristics" xml:space="preserve">
+    <value>It is a graph of output voltage vs output current at constant input current</value>
+  </data>
+  <data name="Peak Inverse Voltage" xml:space="preserve">
+    <value>The maximum reverse voltage that can be applied across the diode during the rectification process</value>
+  </data>
+  <data name="PNP Transistor" xml:space="preserve">
+    <value>When a n-type Semiconductor is said to be sandwiched between two p-type Semiconductors, the device is said to be a p-n-p Transistor</value>
+  </data>
+  <data name="Rectifier" xml:space="preserve">
+    <value>The device which rectifies(converts) AC wave to a DC wave is known as  a Rectifier</value>
+  </data>
+  <data name="Resistor" xml:space="preserve">
+    <value>The devices which has the property to obstruct the  flow of Electric Current is said to be a Resistor</value>
+  </data>
+  <data name="Reverse Bias" xml:space="preserve">
+    <value>When the positive terminal of a device is connected to the negetive terminal of the battery and negetive to the positive terminal, the device is said to be Reverse Biased</value>
+  </data>
+  <data name="Reverse Recovery Time" xml:space="preserve">
+    <value>The time taken by the diode to stop the flow of current when it is Reverse Biased</value>
+  </data>
+  <data name="Ripple Factor" xml:space="preserve">
+    <value>The ratio of RMS value of the AC Component to the DC Component  is known as ripple factor</value>
+  </data>
+  <data name="Transistor" xml:space="preserve">
+    <value>Bipolar Junction Transistor is a bi junction, three terminal,  bi polar current controlled active device</value>
+  </data>
+  <data name="Transition capacitance" xml:space="preserve">
+    <value>When the diode is Reverse Biased, the width of the depletion layer  increases and it produces the capacitance effect this is known as Transition Capacitance</value>
+  </data>
+  <data name="Types of Filters" xml:space="preserve">
+    <value>There are three types of Filters : 
+1.Capacitor Filter 
+2.Choke Input Filter
+ 3.PI Filter</value>
+  </data>
+  <data name="Zener Diode" xml:space="preserve">
+    <value>Zener is a type of diode, wherein it can work in both Forward Bias mode  as well as in Reverse bias</value>
+  </data>
+</root>
